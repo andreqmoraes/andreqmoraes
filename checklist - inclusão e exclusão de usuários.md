@@ -1,5 +1,6 @@
 # Inclusão/Exclusão de Usuários
 
+
 - [ ] Google G Suite (<https://admin.google.com>)
   - Criar usuário (<https://admin.google.com/u/1/ac/users>)
   - Unidade organizacional = [Site Principal / Vek]
