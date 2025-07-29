@@ -1,4 +1,4 @@
-# Inclusão/Exclusão de Usuários
+# Inclusão/Exclusão de Usuários 
 
 - [ ] Google G Suite (<https://admin.google.com>)
   - Criar usuário (<https://admin.google.com/u/1/ac/users>)
